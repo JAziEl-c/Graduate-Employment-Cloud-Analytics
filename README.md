@@ -1,4 +1,11 @@
-# Graduate Employment Analytics with Cloud
+# Graduate Employment Analytics Web Application
+
+## Project Description
+An end-to-end data pipeline and analytics dashboard designed to process and visualize post-graduate employment metrics across universities. System architecture highlights include:
+- Ingestion & Storage: Raw University Graduate Data stored in AWS S3
+- Pipeline & Processing: Various metric extractions and batch aggregation
+- API & Backend: Analytics endpoints
+- Interactive Dashboards: Frontend interface providing table and chart comparisons, filters by institution or degree and forecasting salary trends
 
 ## Prerequisites
 
